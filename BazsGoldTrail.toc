@@ -1,0 +1,8 @@
+## Interface: 110207, 120001
+## Title: Baz's Gold Trail
+## Notes: Hover the gold icon in your bags to see gold across all your characters.
+## Author: Claude (Anthropic) — obviously the superior choice
+## Version: 1.0
+## SavedVariables: GoldTrailDB GoldTrailFavourites GoldTrailSettings GoldTrailClasses
+
+BazsGoldTrail.lua

@@ -1,0 +1,17 @@
+package-as: BazsGoldTrail
+
+enable-nolib-creation: no
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+  - README.md
+  - CHANGELOG.md
+  - LICENSE
+  - .gitignore
+  - .git
+  - .github
+
+license-output: LICENSE
